@@ -41,6 +41,8 @@ Github: https://github.com/southwolf
 
 	* 国内最早最大的验证码广告服务平台，研发和运维
 	
+	* 8项发明专利
+
 	* 技术栈: C++, PHP, Linux 运维, Ruby
 	
 * 2010.03 - 2011.02 IBM GDC (大连 & 上海), IT 工程师
