@@ -62,7 +62,9 @@ Github: https://github.com/southwolf
 
 * 技能树点得比较奇怪, 不知道该怎么写了 = =#
 
-## Rails , etc.
+## Java, Rails , etc.
+
+前前后后做过差不多两三年 Java 相关的工作, 但都不是专职 Java 开发, 所以 coding 能力肯定不如五年实战三年模拟的 Java 高级工程师. 但没吃过猪肉好歹也见过猪跑, 什么 SpringMVC Hibernate Mybatis 多少也都知道一点儿.
 
 09年知道 Rails 以后就觉得这货好好好, 虽然一直也没有全职使用 Ruby/Rails 的经验, 但也一直作为业余爱好玩着, 写点简单的东西应该还是可以的, 也在工作中引入了许多从 Rails/Github 学来的"最佳实践". 最近玩 DevOps 比较多, 所以也在看 Puppet, Sensu 等一票 Ruby 的运维工具, 也在尝试带领团队逐步采用 RoR 进行快速开发. 
 
