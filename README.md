@@ -11,15 +11,14 @@ Github: https://github.com/southwolf
 
 ## 工作经历
 
-* 2014.09 - Now 北京安易博 IT 服务, 技术总监 (其实是打酱油的…)
+* 2014.09 - Now 北京安易博 IT 服务, 技术总监
 
 	* 带领5人团队, 负责 IT 运维平台, 资产管理平台, 视频传输质量诊断终端研发
 	
 	* 其中视频传输质量诊断终端申请两项软著和两项发明专利
 
-	* 技术栈: Java (SpringMVC), Python, Golang, SNMP, MQ, OpenWRT
+	* 技术栈: Java (SpringMVC), Python, Golang, SNMP, MQ, OpenWRT, rails
 	
-	* 尝试使用 Rails 作为设计原型验证
 
 * 2013.06 - 2014.08 北京美科科技 (Microduino), 联合创始人
 
@@ -64,9 +63,9 @@ Github: https://github.com/southwolf
 
 ## Java, Rails , etc.
 
-前前后后做过差不多两三年 Java 相关的工作, 但都不是专职 Java 开发, 所以 coding 能力肯定不如五年实战三年模拟的 Java 高级工程师. 但没吃过猪肉好歹也见过猪跑, 什么 SpringMVC Hibernate Mybatis 多少也都知道一点儿.
+前前后后做过差不多两三年 Java 相关的工作, 但都不是专职 Java 开发, 所以 coding 能力可能不如专职Java 高级工程师. SpringMVC Hibernate Mybatis 多少也都知道一点儿.
 
 09年知道 Rails 以后就觉得这货好好好, 虽然一直也没有全职使用 Ruby/Rails 的经验, 但也一直作为业余爱好玩着, 写点简单的东西应该还是可以的, 也在工作中引入了许多从 Rails/Github 学来的"最佳实践". 最近玩 DevOps 比较多, 所以也在看 Puppet, Sensu 等一票 Ruby 的运维工具, 也在尝试带领团队逐步采用 RoR 进行快速开发. 
 
-最近因为小娃要出生啦, 要腾出更多的时间来陪家人, 所以开始找远程的工作…可以兼职, 如果合适, 也可考虑以后全职.
+最近因为小娃要出生啦, 要腾出更多的时间来陪家人, 所以换工作了。只有一个要求！求不要常态化加班！
 
