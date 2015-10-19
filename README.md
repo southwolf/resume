@@ -11,13 +11,21 @@ Github: https://github.com/southwolf
 
 ## 工作经历
 
-* 2014.09 - Now 北京安易博 IT 服务, 技术总监
+* 2014.09 - 2015.06 北京酷博灵科信息技术有限公司, 技术经理
+
+	* 带领公司技术线, 负责项目研发管理, 系统架构, 平台运维
+	
+	* 项目: 电商 SaaS 平台, ABB, 友邦保险, 蓝色光标移动信息化项目, 车联网, 物联网项目 
+
+	* 技术栈: SpringMVC, Dubbo, MQ, Redis, Docker, Rails, Zabbix, Open-Falcon 
+
+* 2014.09 - 2015.06 北京安易博 IT 服务, 技术总监
 
 	* 带领5人团队, 负责 IT 运维平台, 资产管理平台, 视频传输质量诊断终端研发
 	
 	* 其中视频传输质量诊断终端申请两项软著和两项发明专利
 
-	* 技术栈: Java (SpringMVC), Python, Golang, SNMP, MQ, OpenWRT, rails
+	* 技术栈: Java (SpringMVC), Python, Golang, SNMP, MQ, OpenWRT, Rails
 	
 
 * 2013.06 - 2014.08 北京美科科技 (Microduino), 联合创始人
@@ -58,14 +66,3 @@ Github: https://github.com/southwolf
 * 团队意识良好, 领导能力较强, 主动与团队成员沟通交流, 及时调整团队节奏
 
 * 还算比较会讲课…极客学院签约布道师, 以前在 IBM 做过培训讲师, 在北京创客空间和清华讲(che)课(dan), 在各种技术活动中讲(hu)课(you)…
-
-* 技能树点得比较奇怪, 不知道该怎么写了 = =#
-
-## Java, Rails , etc.
-
-前前后后做过差不多两三年 Java 相关的工作, 但都不是专职 Java 开发, 所以 coding 能力可能不如专职Java 高级工程师. SpringMVC Hibernate Mybatis 多少也都知道一点儿.
-
-09年知道 Rails 以后就觉得这货好好好, 虽然一直也没有全职使用 Ruby/Rails 的经验, 但也一直作为业余爱好玩着, 写点简单的东西应该还是可以的, 也在工作中引入了许多从 Rails/Github 学来的"最佳实践". 最近玩 DevOps 比较多, 所以也在看 Puppet, Sensu 等一票 Ruby 的运维工具, 也在尝试带领团队逐步采用 RoR 进行快速开发. 
-
-最近因为小娃要出生啦, 要腾出更多的时间来陪家人, 所以换工作了。只有一个要求！求不要常态化加班！
-
