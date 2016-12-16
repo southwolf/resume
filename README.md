@@ -27,6 +27,8 @@ Github: https://github.com/southwolf
 
 * 2014.09 - 2015.06 北京安易博 IT 服务, 技术总监
 
+	* 为客户提供IT运维等各类领域的咨询和解决方案
+	
 	* 带领5人团队, 负责 IT 运维平台, 资产管理平台, 视频传输质量诊断终端研发
 	
 	* 其中视频传输质量诊断终端申请两项软著和两项发明专利
@@ -58,7 +60,7 @@ Github: https://github.com/southwolf
 
 	* 技术栈: C++, PHP, Linux 运维, Ruby
 	
-* 2009.07 - 2011.02 IBM GDC (无锡 & 上海), IT 工程师(Java)
+* 2009.07 - 2011.02 IBM GDC (无锡 & 上海), IT Consultant(Java)
 	
 
 	
