@@ -62,8 +62,25 @@ Github: https://github.com/southwolf
 	
 * 2009.07 - 2011.02 IBM GDC (无锡 & 上海), IT Consultant(Java)
 	
-
 	
+## 业余 & 开源项目
+
+* 2017.02 某在线教育公司，教师端 PC 桌面应用 (Electron, C++, VLC/FFMpeg)
+
+* 2017.01 某心理学研究所，数据统计分析和可视化 (R, Python)
+
+* 2016.11 某研究所，官网, 前端(Bootstrap)
+
+* 2016.08 Coding Girls Club, Rails 培训讲师
+
+* 2016.04 某创业团队，项目和工时管理 (Rails)
+
+* 2015.06 某心理学研究所，人类和动物行为分析实验 (Ruby, MED/Delphi, C++)
+
+* 2013.04 Pebble 智能手表中文系统 (嵌入式, C)
+
+* 2007    X3 太空策略游戏汉化
+
 ## 优势
 
 * 工作经验丰富, 善于快速上手, 解决不同领域的各类问题
