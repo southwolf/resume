@@ -14,74 +14,53 @@ Github: https://github.com/southwolf
 * 2016.04 - Now     杭州天车网络科技有限公司, 研发工程师(远程)
 
 	* 负责"车来客" 二手车 ERP, CRM, 网络营销平台的项目研发, 系统架构
-	
+
 	* 技术栈: Ruby On Rails, PostgreSQL, Redis
-	
+
 * 2015.07 - 2016.03 北京酷博灵科信息技术有限公司, 东华博雅软件有限公司, 技术经理, 技术总监
 
 	* 带领公司技术线, 负责项目研发管理, 系统架构, 平台运维
-	
-	* 项目: 电商 SaaS 平台; ABB, 友邦保险, 蓝色光标移动信息化项目; 车联网, 物联网项目 
 
-	* 技术栈: SpringMVC, Dubbo, MQ, Redis, Docker, Rails, Zabbix, Open-Falcon 
+	* 项目: 电商 SaaS 平台; ABB, 友邦保险, 蓝色光标移动信息化项目; 车联网, 物联网项目
+
+	* 技术栈: SpringMVC, Dubbo, MQ, Redis, Docker, Rails, Zabbix, Open-Falcon
 
 * 2014.09 - 2015.06 北京安易博 IT 服务, 技术总监
 
 	* 为客户提供IT运维等各类领域的咨询和解决方案
-	
+
 	* 带领5人团队, 负责 IT 运维平台, 资产管理平台, 视频传输质量诊断终端研发
-	
+
 	* 其中视频传输质量诊断终端申请两项软著和两项发明专利
 
 	* 技术栈: Java (SpringMVC), Python, Golang, SNMP, MQ, OpenWRT, Rails
-	
+
 
 * 2013.06 - 2014.08 北京美科科技 (Microduino), 联合创始人
 
 	* 物联网, 智能硬件, iBeacons 应用, 开源社区运营
-	
+
 	* 参与策划三次 KickStarter 众筹, 总筹资额约 $ 250,000
-	
+
 	* 技术栈: C, Arduino, OpenWRT
 
 * 2012.07 - 2014.08 北京大学数字媒体研究所(AVS 工作组), 工程师
 
 	* 视频编解码, 视频监控, 数字电视, 视频会议及相关应用
-	
+
 	* 参与多个国家 863 项目的申请和研发
 
 	* 技术栈: C++, boost, SDL, ffmpeg, h.264/HEVC, AVS
-	
+
 * 2011.03 - 2012.06 青岛印象派信息技术(印象码), 联合创始人
 
 	* 国内最早最大的验证码广告服务平台，研发和运维
-	
+
 	* 8项发明专利
 
 	* 技术栈: C++, PHP, Linux 运维, Ruby
-	
+
 * 2009.07 - 2011.02 IBM GDC (无锡 & 上海), IT Consultant(Java)
-	
-	
-## 业余 & 开源项目
-
-* 2017.02 某在线教育公司，教师端 PC 桌面应用 (Electron, C++, VLC/FFMpeg)
-
-* 2017.01 某心理学研究所，数据统计分析和可视化 (R, Python)
-
-* 2016.11 某研究所，官网, 前端(Bootstrap)
-
-* 2016.08 Coding Girls Club, Rails 培训讲师
-
-* 2016.04 某创业团队，项目和工时管理 (Rails)
-
-* 2016.02 某创业团队，智能快递柜与 ShareTribe 集成 (Rails)
-
-* 2015.06 某心理学研究所，人类和动物行为分析实验 (Ruby, MED/Delphi, C++)
-
-* 2013.04 Pebble 智能手表中文系统 (嵌入式, C)
-
-* 2007    X3 太空策略游戏汉化
 
 ## 优势
 
