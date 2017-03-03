@@ -75,6 +75,8 @@ Github: https://github.com/southwolf
 
 * 2016.04 某创业团队，项目和工时管理 (Rails)
 
+* 2016.02 某创业团队，智能快递柜与 ShareTribe 集成 (Rails)
+
 * 2015.06 某心理学研究所，人类和动物行为分析实验 (Ruby, MED/Delphi, C++)
 
 * 2013.04 Pebble 智能手表中文系统 (嵌入式, C)
