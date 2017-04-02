@@ -16,7 +16,7 @@ Excellent skills in many programming languages including Ruby, Java and C/C++.
 
 ## Work Experience
 
-* 2016.04 - Present Developer(Remote) of Hangzhou Tianche Network Technology Co, Ltd.
+* 2016.04 - 2017.04 Developer(Remote) of Hangzhou Tianche Network Technology Co, Ltd.
 
   * Working with a team developing Enterprise Resource Planning, Customer Relationship Management and Marketing Management systems for used vehicle dealer.
 
