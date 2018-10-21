@@ -1,9 +1,9 @@
 ## Contact
 
-Fei Song, Male, 28
+Fei Song, Male, 30
 
 
-Cell: +86-15811007067
+Cell: +86-18666135373
 
 Email: wp.southwolf@gmail.com 
 
@@ -11,10 +11,18 @@ Github: https://github.com/southwolf
 
 ## Skills
 
-Rich experience in Information Technology and Software Engineering with expertise in diverse range of technologies within multiple industry settings.
-Excellent skills in many programming languages including Ruby, Java and C/C++.
+Rich experience in Information Technology and Software Engineering with expertise in diverse range of technologies within multiple industry settings. 
+Excellent skills in many programming languages including Ruby, Golang, and Java.
+Team player and good communication skills for cross culture multifunctional squads.
 
 ## Work Experience
+
+* 2017.09 - Present Tech Manager of XO Group Inc. Guanzhou Software Development Center.
+
+    * Working with product managers, engineers from US and China on multiple projects including TheKnot.com (wedding online media), TheBump.com (Baby & pregnancy) and TheKnot Registry (Gift regsitry, e-commerce) and intenal tools (CMS, A/B Testing).
+    * Improving development process with stakeholders and engineering team.
+    * Conducted the migration to Kubernetes of multiple applications.
+    
 
 * 2016.04 - 2017.04 Developer(Remote) of Hangzhou Tianche Network Technology Co, Ltd.
 
