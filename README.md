@@ -1,6 +1,6 @@
 ## Contact
 
-Fei Song, Male, 30
+Fei Song, Male, 32
 
 
 Cell: +86-18666135373
@@ -13,7 +13,7 @@ Github: https://github.com/southwolf
 
 Rich experience in Information Technology and Software Engineering with expertise in diverse range of technologies within multiple industry settings. 
 Excellent skills in many programming languages including Ruby, Golang, and Java.
-Team player and good communication skills for cross culture multifunctional squads.
+Mentor, manager, team player and communicator in cross-culture multifunctional squads.
 
 ## Work Experience
 
