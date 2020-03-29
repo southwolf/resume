@@ -17,7 +17,15 @@ Team player and good communication skills for cross culture multifunctional squa
 
 ## Work Experience
 
-* 2017.09 - Present Tech Manager of XO Group Inc. Guanzhou Software Development Center.
+* 2019.06 - present Application Manager of P&G IT.
+
+    * Working with business partners and vendor teams delivering P&G promotion management solution for largest retailers and eCommerce sites
+    * Optimizing promotion plan and execution by implementing Post Event Analysis and Price & Promotion Forecast solution with data science team
+    * Deploying Agile development and ITIL process in P&G IT and vendor teams
+    * Replatforming legacy applications with modern tech stacks and cloud platform.
+    
+
+* 2017.09 - 2019.05 Tech Manager of XO Group Inc. Guanzhou Software Development Center.
 
     * Working with product managers, engineers from US and China on multiple projects including TheKnot.com (wedding online media), TheBump.com (Baby & pregnancy) and TheKnot Registry (Gift regsitry, e-commerce) and intenal tools (CMS, A/B Testing).
     * Improving development process with stakeholders and engineering team.
