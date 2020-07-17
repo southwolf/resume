@@ -17,11 +17,12 @@ Mentor, manager, team player and communicator in cross-culture multifunctional s
 
 ## Work Experience
 
-* 2019.06 - present Application Manager of P&G IT.
 
-    * Working with business partners and vendor teams delivering P&G promotion management solution for largest retailers and eCommerce sites
-    * Optimizing promotion plan and execution by implementing Post Event Analysis and Price & Promotion Forecast solution with data science team
-    * Deploying Agile development and ITIL process in P&G IT and vendor teams
+* 2019.06 - present Senior Application Manager of P&G IT.
+
+    * Working with business partners and vendor teams delivering P&G promotion management solution managing $1 billion trade fund for largest retailers and eCommerce sites.
+    * Optimizing promotion plan and execution by implementing Post Event Analysis and Price & Promotion Forecast solution with data science team.
+    * Deploying Agile development ITIL and DevOps process in P&G IT and vendor teams.
     * Replatforming legacy applications with modern tech stacks and cloud platform.
     
 
