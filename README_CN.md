@@ -14,17 +14,23 @@ Github: https://github.com/southwolf
 * 2019.06 至今 广州宝洁, IT 高级技术经理
 
     * 负责宝洁销售资金管理项目, 年流水超过 100 亿人民币. 制定项目研发路线, 技术架构方案, 管理外包开发团队, 对接公司内部各个上下游系统, 以及外部天猫, 京东等电商平台
+
     * 与数据分析和算法团队协作, 搭建事后分析和事前预测能力, 分析和优化销售资金使用.
+
     * 带领 IT 团队内部和外包服务商的敏捷开发和 DevOps 流程转型
+
     * 建设内部 DevOps / PaaS 平台能力, 搭建技术中台和基础组件, 微服务改造, CI/CD pipeline,  旧应用迁移上云 (Azure/Kubernetes)
     
 
 * 2017.09 - 2019.05 广州诺特软件(纽约上市公司 XO Group 广州研发中心), 高级技术经理
 
     * 跨国团队 (美国, 中国, 西班牙等) 远程协作, 制定和实施公司产品的产品和研发策略, 包括多个活跃用户过千万的内容和电商类网站: TheKnot.com (全球婚庆类第一), TheBump.com (全球母婴类第一)
-    * 内部工具平台研发, 包括 A/B 测试, 广告追踪, CMS 等
-    * 带领 EPT (Engineering Productivity Team) 团队, 优化应用架构, 建设内部开发和效率平台, 微服务改造, CI/CD pipeline, 旧应用迁移上云 (AWS/Kubernetes/Helm)
-    * 技术栈: Ruby on Rails, NodeJS, Golang, Docker, Kubernetes
+    
+	* 内部工具平台研发, 包括 A/B 测试, 广告追踪, CMS 等
+    
+	* 带领 EPT (Engineering Productivity Team) 团队, 优化应用架构, 建设内部开发和效率平台, 微服务改造, CI/CD pipeline, 旧应用迁移上云 (AWS/Kubernetes/Helm)
+    
+	* 技术栈: Ruby on Rails, NodeJS, Golang, Docker, Kubernetes
     
 
 * 2016.04 - 2017.04 杭州天车网络科技有限公司, 研发工程师(远程)

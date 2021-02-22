@@ -20,17 +20,24 @@ Mentor, manager, team player and communicator in cross-culture multifunctional s
 * 2019.06 - present Senior Application Manager of P&G IT.
 
     * Responsible for architecture design, tech roadmap and solution, vendor team management, delivering P&G promotion fund solution managing $1 billion trade fund for largest retailers and eCommerce sites.
+
     * Optimizing promotion plan and execution by implementing Post Event Analysis and Price & Promotion Forecast solution with data science team.
+
     * Deploying Agile and DevOps process in P&G IT and vendor teams.
+
     * Building internal DevOps / PaaS capabilities, shared services including Log/Monitor/Alert platforms, CI/CD pipeline, replatforming legacy applications with micro service stacks and Azure Cloud/Kubernetes platform.
     
 
 * 2017.09 - 2019.05 Senior Tech Manager of XO Group Inc. Guangzhou Software Development Center.
 
     * Working with product managers, engineers from US and China on multiple projects including TheKnot.com (biggest wedding online media), TheBump.com (biggest baby & pregnancy) and TheKnot Registry (gift registry, e-commerce).
+
     * Building internal tools including CMS, A/B Testing, Ads tracking.
+
     * Leading EPT (Engineering Productivity Team) 团队, 优化应用架构, 建设内部开发和效率平台, 微服务改造, CI/CD pipeline, 旧应用迁移上云 (AWS/Kubernetes/Helm)
+
     * Conducted the migration to Kubernetes of multiple applications.
+
     * Technology : Ruby on Rails, NodeJS, Golang, Docker, Kubernetes
     
 
