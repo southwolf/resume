@@ -1,8 +1,8 @@
 ## 个人信息
 
-宋飞,    男, 1988.03
+宋飞,    男, 32
 
-Cell:   ****
+Cell:   +86-18666135373
 
 Email:  wp.southwolf@gmail.com
 
