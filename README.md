@@ -12,12 +12,12 @@ Github: https://github.com/southwolf
 ## Skills
 
 Rich experience in Information Technology and Software Engineering with expertise in diverse range of technologies within multiple industry settings. 
-Excellent skills in many programming languages including Ruby, Golang, and Java.
+Practical knowledge of cloud infrastructure, DevOps, enterprise architecture and Agile process.
 Mentor, manager, team player and communicator in cross-culture multifunctional squads.
 
 ## Work Experience
 
-* 2019.06 - present Senior Application Manager of P&G IT.
+* 2019.06 - present Senior Application Manager, Solution Architect of P&G IT.
 
     * Responsible for architecture design, tech roadmap and solution, vendor team management, delivering P&G promotion fund solution managing $1 billion trade fund for largest retailers and eCommerce sites.
 
